@@ -16,9 +16,7 @@ El sistema permite:
 
 ## Arquitectura del sistema
 
-> Insertar aquí la imagen de la arquitectura:
-
-![Arquitectura del sistema](./arquitectura.png)
+![Arquitectura del sistema](./images/arquitectura.png)
 
 ---
 
